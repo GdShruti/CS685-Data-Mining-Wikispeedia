@@ -41,4 +41,4 @@ Key Points
 	* The python codes are run using python command and not python3. 
 	* A report named report.tex is included. It has the details of some analysis performed on the given data using different techniques.  
 	* The compilation of report may produce some errors, but it gets compiled.
-	* The execution of the assign.sh may take more than 20 minutes depending on the system configuration. Mainly the graph-components.sh 		  might take longer to finish is system configurations are low. 
+	* The execution of the assign.sh may take more than 20 minutes depending on the system configuration. Mainly the graph-components.sh might take longer to finish is system configurations are low. 
